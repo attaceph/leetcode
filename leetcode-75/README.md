@@ -11,3 +11,6 @@
 ```
 
 1. [1768. Merge Strings Alternately](https://github.com/attaceph/leetcode/blob/main/leetcode-75/1768.md)
+
+2. [1071. Greatest Common Divisor of Strings](https://github.com/attaceph/leetcode/blob/main/leetcode-75/1071.md)
+
