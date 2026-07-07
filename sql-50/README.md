@@ -10,3 +10,5 @@
 ========================================
 ```
 
+1. [1757. Recyclable and Low Fat Products](https://github.com/attaceph/leetcode/blob/main/sql-50/1757.md)
+
